@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Logs
+logs/
+
+# IDE
+.vscode/
+.idea/
+
+# Temp
+*.tmp
+*.bak
+proxy_err.txt
+proxy_out.txt
+
+# Embedded repo (clone separately)
+free-claude-code/
+
+# Claude Code local settings
+.claude/settings.local.json
