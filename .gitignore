@@ -15,6 +15,10 @@ logs/
 *.bak
 proxy_err.txt
 proxy_out.txt
+fcc_err.txt
+
+# Backups (user-specific config)
+backups/
 
 # Embedded repo (clone separately)
 free-claude-code/
